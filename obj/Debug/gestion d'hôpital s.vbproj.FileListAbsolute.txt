@@ -1,0 +1,19 @@
+C:\Users\ghassen\source\repos\gestion d'hôpital s\bin\Debug\gestion d'hôpital s.exe.config
+C:\Users\ghassen\source\repos\gestion d'hôpital s\bin\Debug\gestion d'hôpital s.exe
+C:\Users\ghassen\source\repos\gestion d'hôpital s\bin\Debug\gestion d'hôpital s.pdb
+C:\Users\ghassen\source\repos\gestion d'hôpital s\bin\Debug\gestion d'hôpital s.xml
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion d'hôpital s.vbproj.AssemblyReference.cache
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.Form1.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.Resources.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion d'hôpital s.vbproj.GenerateResource.cache
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion d'hôpital s.vbproj.CoreCompileInputs.cache
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion d'hôpital s.exe
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion d'hôpital s.xml
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion d'hôpital s.pdb
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.frm_ajoutpatient.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.frm_afficherpatient.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.Form3.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.frm_afficherrdv.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.frm_ajouterrdv.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.form2.resources
+C:\Users\ghassen\source\repos\gestion d'hôpital s\obj\Debug\gestion_d_hôpital_s.Form4.resources
