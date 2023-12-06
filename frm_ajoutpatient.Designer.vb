@@ -83,7 +83,7 @@ Partial Class frm_ajoutpatient
         Me.btn_Annuler.Name = "btn_Annuler"
         Me.btn_Annuler.Size = New System.Drawing.Size(91, 25)
         Me.btn_Annuler.TabIndex = 4
-        Me.btn_Annuler.Text = "Annuler"
+        Me.btn_Annuler.Text = "supprimer"
         Me.btn_Annuler.UseVisualStyleBackColor = True
         '
         'txt_code

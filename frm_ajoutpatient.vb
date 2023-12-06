@@ -17,8 +17,12 @@
     End Sub
 
     Private Sub btn_Annuler_Click(sender As Object, e As EventArgs) Handles btn_Annuler.Click
-        Me.Close()
+        If effacer_patient(txt_code.Text) Then
+            MessageBox.Show("patien supprimer")
+        Else
+            MessageBox.Show("patien nexiste pas")
 
+        End If
     End Sub
 
     Private Sub btn_vider_Click(sender As Object, e As EventArgs) Handles btn_vider.Click

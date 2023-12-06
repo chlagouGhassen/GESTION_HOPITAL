@@ -112,9 +112,9 @@ Partial Class frm_ajouterrdv
         Me.btn_Annuler.ForeColor = System.Drawing.Color.Red
         Me.btn_Annuler.Location = New System.Drawing.Point(312, 299)
         Me.btn_Annuler.Name = "btn_Annuler"
-        Me.btn_Annuler.Size = New System.Drawing.Size(75, 35)
+        Me.btn_Annuler.Size = New System.Drawing.Size(89, 35)
         Me.btn_Annuler.TabIndex = 8
-        Me.btn_Annuler.Text = "Annuler"
+        Me.btn_Annuler.Text = "supprimer"
         Me.btn_Annuler.UseVisualStyleBackColor = True
         '
         'frm_ajouterrdv
